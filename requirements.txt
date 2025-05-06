@@ -1,0 +1,5 @@
+click>=8.1
+click-repl @ git+https://github.com/click-contrib/click-repl@b2ef9d95d656bb246d9d1fc48a588968550577cd
+prompt_toolkit>=3.0
+opencv-python
+scipy
